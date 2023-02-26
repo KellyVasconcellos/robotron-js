@@ -15,7 +15,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **robotron** é uma landing page que foi criado dentro do curso [Javascript - Manipulando o DOM, Alura](https://www.alura.com.br/curso-online-javascript-manipulando-dom) com o intuito de colocarmos em prática todo conteúdo estudado durante o curso
+O projeto **robotron** é uma landing page que foi criado dentro do curso [Javascript - Manipulando o DOM, Alura](https://www.alura.com.br/curso-online-javascript-manipulando-dom) com o intuito de colocar em prática todo conteúdo estudado durante o curso
 
 ---
 
