@@ -1,6 +1,6 @@
 # Robotron
 <h1>
-    <img src="public/apresentacao.gif">
+    <img src="public/apresentacao.png">
 </h1>
 
 <h3 align="center">
