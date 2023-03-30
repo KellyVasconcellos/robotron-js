@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://kellyvasconcellos.github.io/robotron/">Acessar Website</a>
+    <a href="https://kellyvasconcellos.github.io/robotron-js/">Acessar Website</a>
 <h3 >
 
 # Indice
@@ -15,17 +15,17 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **robotron** é uma landing page que foi criado dentro do curso [Javascript - Manipulando o DOM](https://www.alura.com.br) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto **Robotron** é uma landing page que foi criada dentro do curso [Javascript - Manipulando o DOM](https://www.alura.com.br) com o intuito de colocar em prática todo conteúdo estudado durante o curso.
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ---
 
@@ -33,9 +33,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ```bash
     # Clonar o repositório
-    $ git clone https://github.com/KellyVasconcellos/robotron.git
+    $ git clone https://github.com/KellyVasconcellos/robotron-js.git
     # Entrar no diretório
-    $ cd robotron
+    $ cd robotron-js
 ```
 
 ---
